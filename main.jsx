@@ -12,7 +12,7 @@ import galleryCeramic from './assets/gallery-ceramic.jpeg';
 import galleryStudio from './assets/gallery-studio.jpeg';
 
 const whatsappLink = 'https://wa.me/491726684456?text=Hallo%20LS-CAR%20Auto%20Studio%2C%20ich%20m%C3%B6chte%20einen%20Termin%20vereinbaren.';
-const emailLink = 'mailto:serhii.levkovskyi@icloud.com?subject=Terminanfrage%20LS-CAR%20Auto%20Studio&body=Hallo%20LS-CAR%20Auto%20Studio%2C%0A%0Aich%20m%C3%B6chte%20einen%20Termin%20vereinbaren.%0A%0AFahrzeug%3A%0AWunschtermin%3A%0ANachricht%3A%0A';
+const emailLink = 'mailto:lscarkass@.com?subject=Terminanfrage%20LS-CAR%20Auto%20Studio&body=Hallo%20LS-CAR%20Auto%20Studio%2C%0A%0Aich%20m%C3%B6chte%20einen%20Termin%20vereinbaren.%0A%0AFahrzeug%3A%0AWunschtermin%3A%0ANachricht%3A%0A';
 
 const services = [
   { icon: Sparkles, title: 'Lackpolitur', text: 'Glanz zurückbringen, feine Kratzer, Hologramme und Waschspuren professionell entfernen.' },
