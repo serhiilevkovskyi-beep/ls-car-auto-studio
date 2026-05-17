@@ -4,7 +4,7 @@ import { motion } from 'framer-motion';
 import { Car, Sparkles, ShieldCheck, Droplets, MapPin, CheckCircle2, Star, CalendarCheck, Mail } from 'lucide-react';
 import './styles.css';
 
-import logo from './assets/logo.png';
+import logo from './logo.png';
 import galleryPolishing from './assets/gallery-polishing.jpeg';
 import galleryInterior from './assets/gallery-interior.jpeg';
 import galleryWash from './assets/gallery-wash.jpeg';
